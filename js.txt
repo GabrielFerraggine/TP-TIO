@@ -1,0 +1,1 @@
+Este es el javascript de la página. Se encarga de agregar funcionalidad y comportamiento al sitio
