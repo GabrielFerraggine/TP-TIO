@@ -1,1 +1,2 @@
 Error del backend no levanta bien la base de datos
+Error del frontend: Los colores de los botones no son los correctos
