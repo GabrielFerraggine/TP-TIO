@@ -1,0 +1,1 @@
+Se introdujo una nueva persona al backend
